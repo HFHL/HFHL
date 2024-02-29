@@ -8,7 +8,9 @@ Trying to find some joy in the vastness of the world.
 <table style="margin-left:auto;margin-right:auto;">
 <tr>
   <td>
-    ## I'm rading:
+I'm rading:
+- 还乡
+- 卡斯蒂利亚的田野
     
   </td>
   <td>
