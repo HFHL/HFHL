@@ -8,7 +8,7 @@ Trying to find some joy in the vastness of the world.
 <table style="margin-left:auto;margin-right:auto;">
 <tr>
   <td>
-📕:
+📕: <br>
 - 还乡 <br>
 - 卡斯蒂利亚的田野
     
